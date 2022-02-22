@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for the well ordering and setling the manufacture of soape, vnder a rule and gouernment</title>
+            <title>Proclamations. 1635-01-25</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1635</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22586</idno>
+            <idno type="STC">STC 9032</idno>
+            <idno type="STC">ESTC S121574</idno>
+            <idno type="EEBO-CITATION">99856753</idno>
+            <idno type="PROQUEST">99856753</idno>
+            <idno type="VID">22377</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22586)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 22377)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1171:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for the well ordering and setling the manufacture of soape, vnder a rule and gouernment</title>
+                  <title>Proclamations. 1635-01-25</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[3] leaves   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most excellent Maiestie: and by the assignes of Iohn Bill,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>1634 [o.s.]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>"Enforcing the Soapmakers' Co. monopoly, especially the right to search for lees prepared for making soap."--STC.</note>
+                  <note>The year in the title is according to Lady Day dating.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Soap trade --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:22377:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+               <g ref="char:leaf">❧</g> By the King. ¶ A Proclamation for the well ordering and ſetling the Manufacture of Soape, vnder a Rule and Gouernment.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas Wee haue heretofore declared by ſundry Proclamations,</hi> Our Princely care for the aduancement of the natiue Commodities of Our Kingdomes, the imployment of many of Our poore people, and for the reformation of diuers former Abuſes, in making and vttering of Soape, to which end Wee haue reduced the manufacture thereof vnder the rule and gouernment of the Society of Soape-makers of <hi>Weſtminſter</hi> formerly eſtabliſhed by our letters Patents: And haue notwithſtanding found by dayly experience that many factious and re<g ref="char:EOLhyphen"/>fractorie perſons, forgetting the naturall dutie and obedience which they owe to our Royall Com<g ref="char:EOLhyphen"/>mandements, haue not onely frequently diſobeyed the ſame, but haue alſo ſtudied and practiſed diuers new wayes to hinder the due and orderly managing of ſo neceſſary a Worke, and thereby to fruſtrate Our good and gracious intentions towards Our louing Subiects, for remedie whereof, and for the better preuenting, and ſuppreſſing the practiſes of ſuch malicious perſons in their lewde attempts: Wee haue reſolued, with the aduiſe of Our Priuie Councill, to ſettle and eſtabliſh the manufacture of Soape vnder a rule and gouernment.</p>
+            <p>Wee doe therefore hereby ſtraightly charge and command, that no perſon or perſons, of what quality or condition ſoeuer, other then ſuch who are, or ſhalbe free of the Company of Gouernour, Aſſiſtants, and Fellowes of the Society of Soape makers of <hi>Weſtminſter,</hi> or ſuch who ſhall make Soape, by, and vnder the rule and gouernment of the ſaid Company, doe at any time hereafter preſume to make or ſuffer to be made, any kinde of Soape, or doe make, prepare, or draw, or ſuffer to be made, prepared, or drawne, any Lees for the making of any kinde of Soape whatſoeuer, in their priuate houſes, or doe make, prepare, or draw, or cauſe to be made, prepared, or drawne, any Soape, or Lees, in any other place, or places whatſoeuer, either for their owne vſe, or otherwiſe, vpon paine of forfeiture of all ſuch Soape and Lees, reſpectiuely, and ſuch further puniſhments as may be inflicted vpon the contemners, and breakers of Our Royall Command and Au<g ref="char:EOLhyphen"/>thoritie.</p>
+            <p>And Wee doe hereby Authorize, Require and Command the ſaid Gouernour, Aſſiſtants, and Fellowes of the ſaid Societie of Soape-makers of <hi>Weſtminſter,</hi> their Agents, Officers, and Ser<g ref="char:EOLhyphen"/>uants, that from time to time they cauſe diligent ſearch and inquiry to be made in any place or pla<g ref="char:EOLhyphen"/>ces whatſoeuer; as well within Liberties as without, for all, or any Soape, of what kinde
+<pb facs="tcp:22377:2"/>ſoeuer, that is, hath, or ſhall be made, ſold or vented, as alſo for all or any Lees made, prepared or drawne, or which ſhall be made, prepared or drawne by any perſon or perſons whatſoeuer, and not by and vnder the rule and gouernment of the ſaid Society, and all ſuch Soape and Lees reſpe<g ref="char:EOLhyphen"/>ctiuely to take, ſeize and carry away, And afterwards to deſtroy the ſame, or otherwiſe to reboyle or amend, to make them vſefull and ſerviceable.</p>
+            <p>And becauſe the ſaid Gouernour Aſſiſtants and Fellowſhip of Soape-makers are forced to be at exceſſiue Charges by imployment of ſeuerall men in ſearching, ſeizing and other diſcouery of Soape made or put to Sale contrary to the Tenour of this and other Our former Pro<g ref="char:EOLhyphen"/>clamations; Wee are therefore well pleaſed that the ſaid Company ſhall reward their In<g ref="char:EOLhyphen"/>formers, Agents and Seizers of ſuch Soape and Lees with or out of the ſame or part thereof, or the benefit that ſhall be made thereof.</p>
+            <p>And Wee doe hereby alſo ſtraightly charge and command that no perſon or perſons whatſo<g ref="char:EOLhyphen"/>euer, either Our owne naturall borne Subiects, Denizens, or Strangers, Marchants, Arti<g ref="char:EOLhyphen"/>ficers or any other, doe hereafter importe or bring in, or attempt to importe or bring into this Our Kingdome of <hi>England</hi> or Dominion of <hi>Wales</hi> from Our Kingdomes of <hi>Scotland</hi> or <hi>Ireland,</hi> or from any forraigne parts any manner or kind of Soape hard or ſoft whatſoeuer, vpon paine of forfeiture of all ſuch Soape to be ſo imported, and ſuch further penalties and puniſhments as in caſes of like nature are vſually inflicted vpon the contemners of Our Royall command and authority.</p>
+            <p>And for the better performance and execution hereof; Wee doe further charge and command all and ſingular the Officers of Our Cuſtomes within all and every the Portes and Hauens of Our ſaid Kingdome and Dominions, and the Creeks and members thereof, as alſo within Our Cinque Ports and the members thereof, that they and euery of them do not onely forbeare to take any Entry or Entryes or giue any Bill or Warrant for vnlading or landing of any Soape prohibited as aforeſaid; but doe alſo cauſe Seizure and ſtay to be made thereof to Our vſe vpon paine of forfeiture of his or their Offices reſpectiuely, &amp; vndergoing Our heauy diſplea<g ref="char:EOLhyphen"/>ſure and ſuch other puniſhments as their neglects and contempts herein ſhall be found to deſerue.</p>
+            <p>And we do hereby further ſtraightly charge and command all Grocers, Salters, Chandlers, Retaylers of Soape and all others that deale in Soape, that they preſume not to receiue, keepe, buy, vtter, vſe or ſpend any Soape of what kinde ſoeuer but that which is or ſhall bee made by the ſaid Gouernour, Aſſiſtants and Fellowes of the ſaid Corporation, or by and vnder their rule and gouernment, and that no perſon or perſons other then by and vnder the rule and gouern<g ref="char:EOLhyphen"/>ment aforeſaid, doe preſume to make, prepare, draw or ſell any Lees for the vſe of making any Soape, vpon pain of forfeiture of the ſayd Soape and Lees reſpectiuely, and alſo vpon paine of incurring Our heauy diſpleaſure, and ſuch puniſhment as their contempt in that behalfe ſhall demerit.</p>
+            <p>And whereas the Gouernour, Aſſiſtants, and Fellowes of the Society aforeſaid, by their Searchers and Subordinate Officers do vſually meete with and find perſons of meane and nee<g ref="char:EOLhyphen"/>dy condition, who are imployed by other men of better abilitie and eſtates, thereby diſguiſing themſelues in making of Soape, and drawing of Lees, not vnder the Rule and Gouernment of the ſaid Corporation;</p>
+            <p>Wee doe therefore hereby further declare that the Owners, Leſſees, and Inhabitants of all and euery ſuch houſe and houſes, where any ſuch Soape ſhall be made, or Lees made, prepared, or drawn by any perſon or perſons whatſoeuer, not by, and vnder the Rule and Gouernment of the
+<pb facs="tcp:22377:3"/>ſaid Corporation, as well as the owners of ſuch Soape and Lees, ſhall be proceeded againſt in Our Court of Starre-Chamber, as contemners of Our Royall pleaſure and Command.</p>
+            <p>And for the better diſcouery of all and euery the ſaid Offenders, Wee doe hereby Authorize, Will, and Command the ſaid Gouernour, Aſſiſtants, and Fellowes of the ſaid Society, their Offi<g ref="char:EOLhyphen"/>cers, Miniſters, and Seruants, to enter into any Houſes, Cellars, Shoppes, Ware-houſes, or other places whatſoeuer, and there to ſearch, ſeize, take and carry away any Soape vnmarked by the ſaid Company, or not made vnder the Rule and Gouernment of the ſaid Company, or any Lees for the making of Soape, not made and drawne vnder the ſaid Rule and Gouernment.</p>
+            <p>And whereas Wee haue by ſome of Our ſaid former Proclamations commanded that all the Fats, Pannes, and Veſſels ſet vp, or that ſhould be ſet vp, or imployed for the making, or boyling of Soape, contrary to the ſaid Letters Patents, and Proclamations ſhould be pulled vp by the Owners of them, before the Feaſt of the Virgin <hi>Mary</hi> then next comming, and ſithence paſt;</p>
+            <p>Now for the better preuenting auoyding and hindering the making of any manner of Soape and the making, preparing, or drawing of any Lees contrary to the Tenor and Intention of this Our Proclamation; Our Will and Pleaſure is, and Wee doe hereby ſtraightly charge and com<g ref="char:EOLhyphen"/>mand the ſaid Gouernour, Aſſiſtants, and Fellowes of the ſaid Societie of Soape-makers of <hi>Weſtminſter,</hi> their Agents, Officers and Seruants, to breake, deface, or deſtroy all Pannes, Pots, Lee-Tubs, Fats, Ciſternes, and other Veſſels, imployed and ſet vp, or that ſhall be imployed or ſet vp, for making of Soape, or for making, preparing, or drawing of Lees to make Soape in any houſe or houſes, or other place or places whatſoeuer, as well within Liberties as without, by any perſon or perſons what-ſoeuer, not free of the ſaid Society of Soape-makers of <hi>Weſtminſter,</hi> or ſuch perſons who ſhall make Soape, or draw Lees, by and vnder the Rule and Gouernment of the ſaid Company.</p>
+            <p>And Wee doe hereby ſtraightly charge and command all Maiors, Sheriffes, Iuſtices of the Peace, Bayliffes, Conſtables, Headboroughes, and all other Our Officers, Miniſters and louing Subiects whatſoever that from time to time without excuſe or delay they readily and diligently attend and giue their aid and aſſiſtance in the due and full execution of all and euery the premiſ<g ref="char:EOLhyphen"/>ſes, when they ſhall be thereunto required.</p>
+            <p>And Wee doe withall hereby require Our Attorney generall, that from time to time he care<g ref="char:EOLhyphen"/>fully proceed in our court of Starre-chamber againſt all or any ſuch perſon and perſons that ſhall preſume to offend or not yeeld obedience to Our Command in the premiſſes.</p>
+            <closer>
+               <dateline>Giuen at Our Court at VVhitehall, <date>the fiue and twentieth day of Ianuary in the tenth yeere of Our Reigne.</date>
+               </dateline>
+            </closer>
+            <closer>God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by ROBERT BARKER, Printer to the Kings moſt Excellent Maieſtie: And by the Aſsignes of Iohn Bill. 1634.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
